@@ -24,6 +24,10 @@ th {
   text-shadow: 2px 2px 4px #000000;
 }
 
+tr:nth-child(odd) {
+  background-color: #E9E9E9;
+}
+
 tr:nth-child(even) {
   background-color: #f2f2f2;
 }
