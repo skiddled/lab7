@@ -24,6 +24,10 @@ th {
   text-shadow: 2px 2px 4px #000000;
 }
 
+td {
+  font-family: Garamond, "Times New Roman", serif;
+}
+
 tr:nth-child(odd) {
   background-color: #DCDCDC;
 }
